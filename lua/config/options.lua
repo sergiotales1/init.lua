@@ -5,3 +5,4 @@ vim.wo.relativenumber = false
 vim.opt.textwidth = 70
 vim.opt.wrap = true
 -- vim.opt.winbar = "%=%m %f"
+local banned_messages = { "No information available" }
